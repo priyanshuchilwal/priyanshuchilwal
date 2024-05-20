@@ -1,5 +1,3 @@
-![Header](https://avatars.githubusercontent.com/u/98333176?s=400&u=adb8bff5f7cf2a7d375bb5f5b397824ed49ad6b3&v=4)
-
 ## Hi there, I'm Priyanshu Singh Chilwal! 👋
 
 I'm a student at MAIT, majoring in Computer Science and Engineering. I'm deeply interested in web development and blockchain technology, constantly seeking to blend creativity with technical skills. My journey in tech is fueled by curiosity and a passion for building innovative solutions.
@@ -35,4 +33,3 @@ Delhi, India
 - **LinkedIn**: [Priyanshu Singh Chilwal](https://linkedin.com/in/priyanshuchilwal)
 ---
 
-![Footer](https://github.com/priyanshuchilwal/priyanshuchilwal/raw/main/footer.png)
