@@ -27,15 +27,12 @@ Delhi, India
 - **Bits and Bytes of Computer Networking**: A foundational course on computer networking principles and protocols.
 
 ### 🎨 Interests
-- **Art**: Sketching and Photography
-- **Coding**: Creating innovative projects and learning new technologies
+- Sketching and Photography
+- Creating innovative projects and learning new technologies
 
 ### 📫 Contact Me
 - **Email**: [priyanshu.chilwal01@gmail.com](mailto:priyanshu.chilwal01@gmail.com)
 - **LinkedIn**: [Priyanshu Singh Chilwal](https://linkedin.com/in/priyanshuchilwal)
-
 ---
-
-I am currently working on some exciting projects, which I will be showcasing here soon. Stay tuned for updates!
 
 ![Footer](https://github.com/priyanshuchilwal/priyanshuchilwal/raw/main/footer.png)
